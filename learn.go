@@ -253,7 +253,7 @@ type TestStringer interface {
 	String() string
 }
 
-// 定义Stringer为一个接口类型，有一个方法String
+// Stringer 定义Stringer为一个接口类型，有一个方法String
 type Stringer interface {
 	String() string
 }
